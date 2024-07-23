@@ -114,6 +114,7 @@ button:hover{
         height: 450px;
         background-color: var(--White);
         box-sizing: border-box;
+        margin-top: 120px;
     }
     .section1 .image{
         background-image: url(image-product-desktop.jpg);
